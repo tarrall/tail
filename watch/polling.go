@@ -3,7 +3,7 @@
 package watch
 
 import (
-	"github.com/hpcloud/tail/util"
+	"github.com/tarrall/tail/util"
 	"gopkg.in/tomb.v1"
 	"os"
 	"runtime"

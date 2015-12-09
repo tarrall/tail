@@ -5,7 +5,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/hpcloud/tail"
+	"github.com/tarrall/tail"
 	"os"
 )
 

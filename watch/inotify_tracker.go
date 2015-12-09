@@ -8,7 +8,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/hpcloud/tail/util"
+	"github.com/tarrall/tail/util"
 
 	"gopkg.in/fsnotify.v1"
 )

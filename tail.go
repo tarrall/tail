@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hpcloud/tail/ratelimiter"
-	"github.com/hpcloud/tail/util"
-	"github.com/hpcloud/tail/watch"
+	"github.com/tarrall/tail/ratelimiter"
+	"github.com/tarrall/tail/util"
+	"github.com/tarrall/tail/watch"
 	"gopkg.in/tomb.v1"
 )
 

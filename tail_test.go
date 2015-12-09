@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"./watch"
-	"github.com/hpcloud/tail/ratelimiter"
+	"github.com/tarrall/tail/ratelimiter"
 )
 
 func init() {
